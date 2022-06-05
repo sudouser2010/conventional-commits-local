@@ -8,6 +8,11 @@
     * cp commit_msg.py <local path to `Target` Git repo>/hooks/commit-msg
     * chmod +x <local path to `Target` Git repo>/hooks/commit-msg
 
-## How to Run Tests
+## How to run tests:
     * pip install pytest
     * pytest test_commit_msg.py
+
+## How to use:
+    Just make a commit. When the commit message doesn't pass the Conventional Commit validation, 
+    it will fail with an error message. When that happens, modify the commit message so it passes validation
+    and recommit.
