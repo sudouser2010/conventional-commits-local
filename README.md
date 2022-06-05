@@ -1,5 +1,5 @@
 # Conventional-Commits-Local
-## Enforces Conventional Commits Locally With A Git Hook:
+## Enforces [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) Locally With A Git Hook:
 #### Suppose you have a Git repo named `Target` and you want to always enforce Conventional Commits. Follow the install instructions below to setup a Git Hook for the `Target` repo.
 
 ## How to install:
