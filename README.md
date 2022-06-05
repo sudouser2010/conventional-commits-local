@@ -14,5 +14,5 @@
 
 ## How to use:
     Just make a commit. When the commit message doesn't pass the Conventional Commit validation, 
-    it will fail with an error message. When that happens, modify the commit message so it passes validation
-    and recommit.
+    it will fail with an error message. When that happens, modify the commit message 
+    so it passes validation and recommit.
